@@ -1,12 +1,40 @@
-[
-  {
-    "Name": "Terraia",
-    "Version": "1.5.7",
-    "DownloadLink": "https://www.google.com"
-  },
-  {
-    "Name": "Minecraft",
-    "Version": "1.16.5",
-    "DownloadLink": "https://www.microsoft.com"
-  }
-]
+{
+    "games": {
+      "Stardew Valley": {
+        "display": "Stardew Valley",
+        "requested_by": "zsigsza",
+        "type": "Game",
+        "versions": {
+            "1.5.6": {
+                "link_url": "https://www.dropbox.com/s/3a5dqglduj14pvr/StardewValley.zip?dl=1"
+            },
+            "1.5.6 [Stardew Plus Modpack]": {
+                "link_url": "https://www.dropbox.com/s/ynsqbfbebd0tt3c/StardewPlus.zip?dl=1"
+            }
+        }
+      },
+      "Geometry Dash": {
+        "display": "Geometry Dash",
+        "requested_by": "zsigsza",
+        "type": "Game",
+        "versions": {
+            "v19.07.2018 [2.1 older version]": {
+                "link_url": "https://www.dropbox.com/scl/fi/dp4wgbdtjcy501r154kr6/GeometryDash-v19.07.2018.zip?rlkey=y1zxvb963a1zcdry3pnig81fk&dl=0"
+            },
+            "v07.24.2021 [2.1]": {
+                "link_url": "https://www.dropbox.com/scl/fi/jkghrp5jkhgmxlejyik8f/GeometryDash-v07.24.2021.zip?rlkey=6ph0u55d5k6swdmuzskfpw6wl&dl=1"
+            }
+        }
+      },
+      "Factorio": {
+        "display": "Factorio",
+        "requested_by": "AnukadSzep",
+        "type": "Game",
+        "versions": {
+            "v1.1.92": {
+                "link_url": "https://www.dropbox.com/scl/fi/zzp7firs9270du9p6h099/Factorio.v1.1.92.rar?rlkey=9qnddgsqfrlho543211q9dc3y&dl=1"
+            }
+        }
+      }
+    }
+}
